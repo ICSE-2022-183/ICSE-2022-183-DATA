@@ -5,3 +5,5 @@
 ./patch\_data/miss: data for patch missing
 
 ./app\_data: data for pre-installed app infomation
+
+./pre-installed-apps-CVEs.txt: CVEs related with pre-installed apps
