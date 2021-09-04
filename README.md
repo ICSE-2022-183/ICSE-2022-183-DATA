@@ -6,4 +6,4 @@
 
 ./app\_data: data for pre-installed app information
 
-./pre-installed-apps-CVEs.txt: CVEs related with pre-installed apps
+./pre-installed-apps-CVEs.txt: CVEs related to pre-installed apps
